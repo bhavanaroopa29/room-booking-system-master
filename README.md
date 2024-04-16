@@ -244,11 +244,7 @@ Using Trello we began adding all tasks and delegating work between each member o
 ## Design
 We designed the application to be an intuitive and simple, yet powerful way to navigate, analyse and create bookings. This ultimately enables the efficient use of resources.
 
-### Wireframes
 
-[View wireframes in Figma](https://www.figma.com/file/M5AfR3iuOLO437LBDP1p9IXX/Room-Booking-System-Final)
-#### Room View
-![Desktop | Room View](docs/Desktop-RoomView.png)
 
 #### Booking View
 ![Desktop | Booking View](docs/Desktop-BookingView.png)
