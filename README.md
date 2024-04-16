@@ -145,22 +145,7 @@ A web-based application that allows the client (including its administrative sta
 
 This will help to ensure that room resources are used as fully-utilised as possible, whilst avoiding double-bookings and other common user frustrations. It will also make room booking statistics available to the client's staff and management to assist their planning and decision-making.
 
-## Planning
-We began the planning process by meeting with the client to better understand the problem and to see how the existing system worked. We also gathered information about what the client would like to expect in the new system. We then looked at other booking systems on Hotel websites and room booking systems used by libraries such as LibCal.
 
-From then we began thinking about what documents and fields would be needed for the database and how we could nest or reference data from the documents. While developing the ERD, we also started working out how we could best display the data to avoid the problems that the client has with the existing system. We developed wireframes for day, week and month view and a prototype using Figma.
-
-Using Trello we began adding all tasks and delegating work between each member of the team.
-
-[Trello Board](https://trello.com/b/7Wo4BQjs)
-
-![Project Work Breakvbown](docs/RoomBookingSystem-ProjectWorkBreakdown.png)
-
-### Audience
-- Management staff
-- Business unit representative
-- Administration staff
-- Teachers
 
 ### User Stories
 **Note** The user stories which apply to lower-level users (for example, a basic user) also apply to high-level users.
@@ -236,18 +221,6 @@ Using Trello we began adding all tasks and delegating work between each member o
 
 **In order to** book a room that has twenty seats, **as a** Business Unit Representative, **I want to** be able to see all the available rooms that have 20 or more seats.
 ### Entity Relationship Diagram
-
-#### Version 1
-![Entity Relationship Diagram | Version 1](docs/RoomBookingSystem-ERD-v1.png)
-#### Version 2
-![Entity Relationship Diagram | Version 2](docs/RoomBookingSystem-ERD-v2.png)
-## Design
-We designed the application to be an intuitive and simple, yet powerful way to navigate, analyse and create bookings. This ultimately enables the efficient use of resources.
-
-
-
-#### Booking View
-![Desktop | Booking View](docs/Desktop-BookingView.png)
 
 
 ## Development
